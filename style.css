@@ -34,6 +34,29 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
 }
+/* My CSS */
+.project_img{
+  width: 250px;
+  height: 450px;
+}
+/* About CSS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .header {
   position: fixed;
   top: 0;
